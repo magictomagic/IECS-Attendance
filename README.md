@@ -17,8 +17,9 @@
 
 ### USB攝像頭獲取圖片存與文件夾中
     攝像頭型號不匹配，沒有設備。
-    _擱置_
-    開學後 YH 做。
+    use logitech usb camera, sucess. see details in directory cam-pro
+
+#### now, you can run it alone. To enhance, start below.
     
 ### 安卓
     開始計劃
