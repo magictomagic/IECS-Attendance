@@ -22,4 +22,4 @@
 #### now, you can run it alone. To enhance, start below.
     
 ### 安卓
-    開始計劃
+    疫情影响，经过讨论，安卓端增加学生的操作负担，且之前实现的系统识别率已经很高了，因此削去这部分的开发。
